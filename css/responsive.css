@@ -1,0 +1,363 @@
+@media screen and (max-width: 1199px){
+	.banner-con-inner h2{
+		font-size: 34px;
+	    font-weight: 500;
+	    line-height: 1.4em;
+	}
+	.welcome-left-inner h2{
+		font-size: 34px;
+	    font-weight: 500;
+	    line-height: 1.4em;
+	}
+	.module-content-block-inner{
+		padding: 80px 30px;
+	}
+	.challenge-right-inner h2{
+		font-size: 34px;
+	    font-weight: 500;
+	    line-height: 1.4em;
+	}
+	.reminder-con-block h2{
+		font-size: 34px;
+	    font-weight: 500;
+	    line-height: 1.4em;
+	}
+	.powerfull-testimonial-content-area-inner h2{
+		font-size: 34px;
+	    font-weight: 500;
+	    line-height: 1.4em;
+	}
+	.about-first-col-inner h2{
+		font-size: 34px;
+	    font-weight: 500;
+	    line-height: 1.4em;
+	}
+	.about-first-col-inner{
+		padding: 0px 30px 0px 30px;
+	}
+	.growth-right-inner h2{
+		font-size: 32px;
+	    font-weight: 500;
+	    line-height: 1.4em;
+	}
+	.growth-right-inner {
+	    margin: 0px;
+	    padding: 0px 40px 40px 40px;
+	}
+	.growth-bottom-img-area-inner img{
+		height: 388px;
+	    object-fit: cover;
+	    width: 100%;
+	}
+	.result-heading-area h2{
+		font-size: 34px;
+	    font-weight: 500;
+	    line-height: 1.4em;
+	}
+	.goal-left-inner-area h2{
+		font-size: 34px;
+	    font-weight: 500;
+	    line-height: 1.4em;
+	}
+	.dothis-content-area-inner h2{
+		font-size: 34px;
+	    font-weight: 500;
+	    line-height: 1.4em;
+	}
+	.faq-heading-area h2{
+		font-size: 34px;
+	    font-weight: 500;
+	    line-height: 1.4em;
+	}
+	.feature-con-block h3{
+		max-width: 100%;
+		font-size: 20px;
+	}
+	.program-service-right-inner h2{
+		font-size: 34px;
+	    font-weight: 500;
+	    line-height: 1.4em;
+	}
+	.commit-right-inner h2{
+		font-size: 34px;
+	    font-weight: 500;
+	    line-height: 1.4em;
+	}
+}
+@media screen and (max-width: 991px){
+	.service-con-inner p span{
+		display: inline;
+	}
+	.welcome-main-sec{
+		padding: 50px 0 80px 0;
+	}
+	.welcome-left-main{
+		margin: 0 0 40px 0;
+	}
+	.module-main-sec {
+	    margin: 100px 0px 0px 0px;
+	    padding: 70px 0px;
+	}
+	.challenge-left-inner img{
+		margin: 0px;
+		height: auto;
+	}
+	.challenge-main-sec{
+		padding: 50px 0px 0px 0px;
+	}
+	.reminder-left-inner img{
+		margin: 0px;
+		height: auto;
+	}
+	.reminder-main-sec{
+		padding: 50px 0px 90px 0px;
+	}
+	.reminder-right-inner {
+	    margin: 40px 0px 0px 0px;
+	    padding: 60px 40px;
+	    background: #fff;
+	}
+	.growth-left-inner img{
+		height: auto;
+	}
+	.growth-left-inner{
+		margin: 0px 0px 40px 0px;
+	}
+	.growth-right-inner{
+		padding: 0px 0px 40px 0px;
+	}
+	.result-right-inner img{
+		margin: 0px;
+		height: auto;
+	}
+	.result-right-inner{
+		margin: 40px 0px 0px 0px;
+	}
+	.result-heading-area h2{
+		text-align: center;
+	}
+	.goal-left-main-area{
+		margin: 0px 0px 40px 00px;
+	}
+	.program-service-left-main{
+		margin: 0px;
+	}
+	.program-service-sec{
+		padding: 50px 0px 100px 0px;
+	}
+	.program-service-right-inner {
+	    margin: 0px;
+	    padding: 40px 0px 0px 3px;
+	}
+	.commit-main-sec{
+		padding: 0px;
+	}
+	.commit-left-inner-sec img{
+		height: auto;
+	}
+	.commit-right-inner{
+		margin: 60px 0px 60px 0px;
+	}
+	.guarantee-content-inner p{
+		max-width: 100%;
+	}
+	.price-con-inner{
+		margin: 0px;
+	}
+	.price-main-sec{
+		padding: 60px 0px 90px 0px;
+	}
+	.price-item-block{
+		margin: 0px 0px 40px 0px;
+	}
+	.bonus-inner-area .row{
+		flex-direction: column-reverse;
+	}
+	.bonus-main-area{
+		margin: 40px 0px 0px 0px;
+	}
+	.about-second-col-main img{
+		height: auto;
+	}
+	.about-third-col-main{
+		display: none;
+	}
+	.about-main-sec{
+		padding: 90px 0px 50px 0px;
+	}
+	.faq-item-con-block-inner ul li{
+		flex: 0px 0px 100%;
+		max-width: 100%;
+	}
+	.feature-item-block{
+		margin: 0px 0px 40px 0px;
+	}
+	.convey-content-area-inner{
+		width: 100%;
+	}
+}	
+@media screen and (max-width: 767px){
+	.banner-con-inner{
+		padding: 50px 10px;
+	}
+	.banner-con-inner h2{
+		font-size: 24px;
+		margin: 0px 0px 15px 0px;
+	}
+	.banner-con-inner p{
+		font-size: 17px;
+	}
+	.welcome-left-inner h2{
+		font-size: 24px;
+	}
+	.welcome-left-inner p{
+		font-size: 17px;
+	}
+	.service-con-inner h2{
+		font-size: 30px;
+	}
+	.service-con-inner p{
+		font-size: 17px;
+	}
+	.service-img-block{
+		margin: 40px 0px 0px 0px;
+	}
+	.module-main-sec{
+		margin: 0px;
+		padding: 70px 0px 20px;
+	}
+	.module-heading-area h2{
+		font-size: 24px;
+	}
+	.module-con-main {
+	    margin: 30px 0px 0px 0px;
+	    padding: 0px;
+	}
+	.module-content-block-inner {
+	    padding: 40px 15px;
+	}
+	.module-content-block-inner h2{
+		font-size: 24px;
+		margin: 0px 0px 15px 0px;
+	}
+	.module-content-block-inner p{
+		font-size: 17px;
+	}
+	.module-img-block-inner img{
+		height: auto;
+	}
+	.challenge-left-inner img{
+		border: none;
+	}
+	.challenge-right-inner h2{
+		font-size: 24px;
+	}
+	.challenge-right-inner h3{
+		font-size: 19px;
+		line-height: 1.4;
+	}
+	.challenge-right-inner p{
+		font-size: 17px;
+	}
+	.reminder-right-inner{
+		padding: 40px 15px;
+	}
+	.reminder-con-block h2{
+		font-size: 24px;
+	}
+	.reminder-con-block p{
+		font-size: 17px;
+	}
+	.goal-left-inner-area h2{
+		font-size: 24px;
+	}
+	.goal-left-inner-area p{
+		font-size: 17px;
+	}
+	.goal-main-sec {
+	    margin: 0px;
+	    padding: 100px 0px 0px 0px;
+	}
+	.stared-con-inner h2{
+		font-size: 24px;
+	}
+	.started-main-sec {
+	    margin: 0px;
+	    padding: 0px 0 60px 0;
+	}
+	.program-service-left-inner img{
+		height: auto;
+	}
+	.program-service-right-inner h2{
+		font-size: 24px;
+	}
+	.program-service-right-inner p{
+		font-size: 17px;
+	}
+	.commit-right-inner{
+		padding: 40px 15px;
+	}
+	.commit-right-inner h2{
+		font-size: 24px;
+	}
+	.commit-right-inner p{
+		font-size: 17px;
+	}
+	.price-con-inner{
+		padding: 30px 15px;
+		border: 3px solid #F8F4F4;
+	}
+	.bonus-main-area {
+	    margin: 0px;
+	}
+	.bonus-left-inner h2{
+		font-size: 24px;
+	}
+	.powerfull-testimonial-sec{
+		padding: 80px 0px;
+	}
+	.powerfull-testimonial-content-area-inner h2{
+		font-size: 24px;
+	}
+
+	.about-first-col-inner{
+		padding: 0px;
+	}
+	.about-main-sec {
+	    padding: 50px 0px 50px 0px;
+	}
+	.about-first-col-inner h2{
+		font-size: 24px;
+	}
+	.about-first-col-inner p{
+		font-size: 17px;
+	}
+	.about-second-col-main{
+		margin: 30px 0px 0px 0px;
+	}
+	.growth-right-inner h2{
+		font-size: 24px;
+	}
+	.selectplan-main-sec.second-version {
+	    padding: 100px 0px 20px;
+	}
+	.faq-item-con-block-inner ul li h3{
+		line-height: normal;
+	}
+	.faq-item-con-block-inner ul li{
+		padding: 0px 10px;
+	}
+	.faq-item-con-block-inner ul li p{
+		font-size: 17px;
+	}
+	.convey-content-area-inner{
+		padding: 50px 15px;
+	}
+	.convey-content-area-inner h2{
+		font-size: 24px;
+		margin: 0px 0px 15px 0px;
+	}
+	.convey-content-area-inner p{
+		font-size: 17px;
+	}
+}
